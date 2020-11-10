@@ -1,4 +1,4 @@
-# GameDesign-Assignment01 by the "3 Sexi Bois"
+# GameDesign-Assignment01 by the 3SB Studios
 
 ## Trello Boards Links
 ***

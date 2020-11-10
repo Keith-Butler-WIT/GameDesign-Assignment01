@@ -2,7 +2,7 @@
 
 ============================
 ## Trello Boards Links
-Brainstorm - https://trello.com/b/fcgsUdT9/brainstorm-ca1-pandoras-box
+Brainstorm - https://trello.com/b/fcgsUdT9/brainstorm-ca1-pandoras-box \n
 Scrum - https://trello.com/b/ieOV2o3q/ca1-pandoras-box
 
 ============================

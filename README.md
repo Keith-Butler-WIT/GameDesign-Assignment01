@@ -1,4 +1,4 @@
-# GameDesign-Assignment01
+# GameDesign-Assignment01 by the "3 Sexi Bois"
 
 ## Trello Boards Links
 ***
